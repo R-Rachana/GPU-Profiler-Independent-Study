@@ -1,7 +1,6 @@
 # Independent Study: GPU Power Profiling for Scalene
 
-![Project Screenshot / Architecture Diagram]
-*(A great image here would be a screenshot of a terminal showing the Scalene profiler's output, or a graph of GPU power usage you generated. You can upload this image to the repo and link it.)*
+
 
 ## 1. Project Overview
 
